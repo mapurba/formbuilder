@@ -1,8 +1,8 @@
 {
-  "name": "eatodo",
+  "name": "formbuilder",
   "version": "0.0.2",
-  "description": "Simple TODO application built with Electron and AngularJS.",
-  "author": "Vjekoslav Ratkajec <vjeko@creaticon.hr>",
+  "description": "IDM Form Builder.",
+  "author": "Apurba Mondal <apurbamondal@icloud.com>",
   "main": "main.js",
   "license": "MIT",
   "dependencies": {

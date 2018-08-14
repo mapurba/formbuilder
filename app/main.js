@@ -78,7 +78,7 @@ app.on('ready', function() {
     // Other options available at:
     // http://electron.atom.io/docs/latest/api/browser-window/#new-browserwindow-options
     mainWindow = new BrowserWindow({
-        name: "ea-todo",
+        name: "form-builder",
         width: 400,
         height: 600,
         toolbar: false
